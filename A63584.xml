@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the proceedings at the assizes holden for the county of Surry which began on Fryday the 12th of this instant March 1679, and ended on the Wednesday following, where a great number of malefactors were tried ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63584</idno>
+            <idno type="STC">Wing T2813</idno>
+            <idno type="STC">ESTC R27022</idno>
+            <idno type="EEBO-CITATION">09618992</idno>
+            <idno type="OCLC">ocm 09618992</idno>
+            <idno type="VID">43828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the proceedings at the assizes holden for the county of Surry which began on Fryday the 12th of this instant March 1679, and ended on the Wednesday following, where a great number of malefactors were tried ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:43828:1"/>
+            <pb n="1" facs="tcp:43828:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEDINGS AT THE ASSIZES Holden for the <hi>County of Surry:</hi> Which began on <hi>Fryday</hi> the 12th of this inſtant <hi>March</hi> 1679. and ended on the <hi>Wedneſday</hi> following, where a great num<g ref="char:EOLhyphen"/>ber of Malefactors were Tried; the moſt remarkable of which I ſhall give the Reader an impartial Account.</head>
+            <argument>
+               <p>
+                  <hi>Viz. Jone Phillips, James Chriſtian,</hi> for Murder, <hi>John Seamor, John Selby, Richard Smith,</hi> all three notorious Highway-Men. <hi>William Phips,</hi> and <hi>William Watſon,</hi> for Horſe-ſtealling, and <hi>Margaret Clark</hi> for ſetting her Maſters houſe on Fire in <hi>Southwark.</hi> being eight in number, which received Sentance of Death. Eeight burned in the hand, three to be whipt, and two to be Tranſported. And ſo this great Aſſize ended.</p>
+            </argument>
+            <p>THE firſt notorious Offender that received her Tryal was <hi>Rebeccah Serjeant,</hi> againſt whom three ſeveral Bills of Indictments were preferred, all of them for her Stealing Gold Rings, the firſt Indictment was, for that ſhe the Pri<g ref="char:EOLhyphen"/>ſoner coming into the Shop of <hi>Jeremiah Pipit</hi> living in St. <hi>Mary Magdalins Bermondſy,</hi> and there pretending to cheapen ſeveral Rings, conveyed the two ſpecified in the Indictment, and valued at 15 <abbr>
+                  <hi>s.</hi>
+               </abbr> into her Boſom, and ſo departed undiſcovered. The next was for Stealing a Ring in the ſame manner from <hi>Richard Gunter,</hi> living in St. <hi>Olaves Southwark</hi> valued 9 <abbr>
+                  <hi>s.</hi>
+               </abbr> pretending there that her Mother ſent her to cheapen a Ring. The Third and laſt was for Stealing a Ring from <hi>James Gunter</hi> of the ſaid Pariſh: but being apprehended, ſhe fairly confeſſed the ſeveral Fellonies, as likewiſe upon her Trial.</p>
+            <p>
+               <hi>William Phips</hi> was Arraigned, and Tried for ſtealing a Gelding, vallued at five pounds out of the Grounds of <hi>Henery Laden,</hi> at <hi>Long Ditton in the County of Surry,</hi> the 20th of <hi>September</hi> paſt, being taken upon the back of the ſaid Gelding in <hi>Kingſton,</hi> he pre<g ref="char:EOLhyphen"/>tended, he bought him, but could produce no Witneſs to confirm it, therefore was found Guilty of the Fellony.</p>
+            <p>
+               <hi>John Wood,</hi> alias <hi>Knight,</hi> was Arraigned and found Guilty; for ſtealing a Tankard and a Riding-hood from <hi>Elizabeth Griffin</hi> in the Pariſh of <hi>Redriff.</hi>
+            </p>
+            <p>
+               <hi>Rogor Palmer,</hi> a Bargemans Servant was Tryed for Robbing a Gentleman of his Mare, valued at fifty <abbr>
+                  <hi>s.</hi>
+               </abbr> he pleaded in Court that he bought her in <hi>Smithfield,</hi> but being not able to prove the ſame, and a notorious Offender he was found Guilty of the Fellonious Steal<g ref="char:EOLhyphen"/>ing of the ſaid Mare.</p>
+            <pb n="2" facs="tcp:43828:2"/>
+            <p>The next were <hi>Margaret Clark</hi> and <hi>John Satterthwait,</hi> for that notorious Crime of Firing Mt. <hi>Delanoy</hi>'s Houſe, in <hi>Montague</hi> Cloſe in <hi>Southwark,</hi> on the firſt of <hi>January</hi> laſt, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Circumſtances ſworn to were thus, that a Neigh<g ref="char:EOLhyphen"/>bour of Mr. <hi>Delan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ys</hi> on the firſt of <hi>January</hi> aforeſaid, ſmelling a ſtrong ſcent of Fire, was much ſurpriſed, and thereupon began to ſearch about his own Houſe, but not finding any there, imagined that it muſt needs be at Mr. <hi>De<g ref="char:EOLhyphen"/>lawnies,</hi> being the more ſuſpicious place, by reaſon he could diſerne a Smoke iſſuing out from between the Boards, and that all the Family except the afore<g ref="char:EOLhyphen"/>ſaid <hi>Margaret Clark</hi> and one of the Apprentices, were in the Country; the ſaid <hi>Delanoy</hi> being a Dyer. Whereupon he went and knocked at the Dore, calling to the aforeſaid <hi>Margaret Clark,</hi> who was a long time before ſhe would Anſwer but when ſhe did, ſeemed loath to let him in, but did at laſt; who entering, told her there was Fire in the Houſe, at which, in great Amazement, ſhe made ſtrange of; but he perſiſting, after much ſearch, found it in a Buttery, where the Flames had reached the Seiling. and asking her for the Aprentice ſhe told him he was in Bed, whereupon he running up Stairs, pulled him out, ſurprized with the Event, and both of them after ſome time, quenched the raging Element, the which no ſooner done. but another Fire began in the Dyhouſe, far diſtant from the former, that being quenched, another began in the Garret, upon which they ſuſpecting ſome Treachery, queſtioned the ſaid <hi>Margaret Clark;</hi> who for a while faintly denied that ſhe knew any thing of the Concerne; but being hard preſſed, confeſſed that three Gentlemen getting her to an Alehouſe hard by and proffered her a Reward of two thouſand pounds, if ſhe would Fire her Maſters Houſe, or let them in to do it in a convenient time, and that after it was done, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould come to the <hi>Fleece Tavern</hi> in <hi>Holbourn,</hi> and there ask for the Number 9. and by that find them, and receive her monies, and in order thereunto ſhe had let the now Priſoner Mr. <hi>Satterthwait</hi> in, and that he did effect what was done, and farther, that ſhe underſtood by them that they were Papiſts, this Con<g ref="char:EOLhyphen"/>feſſion ſhe likewiſe confirmed upon her Trial, and <hi>Satterthwait</hi> being taken up<g ref="char:EOLhyphen"/>on ſuſpicion for the hiring her, he being by her deſcribed, and found drinking at the <hi>Bear-Tavern,</hi> was carried before the Juſtice, where ſhe was, who no ſoo<g ref="char:EOLhyphen"/>ner ſeeing him, but charged him to be the ſame that had hired her; but in Court ſeveral Gentlemen and others, atteſting where he was that day, and all the time ſhe charged him to be there, whereupon he was acquitted, but ſhe was found Guilty of the notorious Fellony.</p>
+            <p>
+               <hi>John Buttolph</hi> and <hi>William Savory,</hi> were Indicted, and Arraigned for Robing a Veſſel upon the River of Thames, for that they in the Company of four more, all Armed, and with Plack Caps pulled over their Faces only peepholes left, did come Aboard the ſaid Veſſel lying about <hi>Limehouſe,</hi> in the River of Thames, and binding one <hi>Harriſon,</hi> who lay aboard, and conveyed thence in a Boat brought by them, one Bail of Spaniſh-Cloth, four pieces of Hair Camblet, ten groſe of Silk-buttons, one doſen of Silk-hoods, fifty pair of Silk Stockins, ſeveral pair of Shoos, Fring-Gloves, and Ribbons, in all to the vallue of two hundred pounds, leaving the ſaid <hi>Harris</hi> bound; between one and two in the morning they brought a Boat with them to carry off the Goods, one <hi>Furr</hi> be<g ref="char:EOLhyphen"/>ing Maſter of the Veſſel, who they ſwore deſperately they would have killed, had they found him on board. Upon ſearch for theſe Goods, and great ſuſpici<g ref="char:EOLhyphen"/>on both the Priſoners were apprehended, and upon ſearch of <hi>Savories,</hi> houſe ſe<g ref="char:EOLhyphen"/>veral of them were found, as likewiſe 6 Piſtols, 6 Swords and 3 Black Caps; <hi>Savories</hi> Wife Confeſſing that <hi>Buttolph</hi> brought them thither, under the notion of uncuſtomed Goods, in the name of one Mr. <hi>Mannering</hi> a Marchant, deſiring her to ſecure them, and the next day they ſhould be ſent for. All this was ſworn in Court, and her Examination produced, yet by reaſon ſhe was fled, and not to be found, the jury for want of Evidence, brought them in not Guilty.</p>
+            <pb n="3" facs="tcp:43828:2"/>
+            <p>The next were three notorious High way men, <hi>viz. John Seymour,</hi> alias <hi>Her<g ref="char:EOLhyphen"/>ring, John Selby, Rechard Smith</hi> who were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o leſs than 5 times Indicted for Rob<g ref="char:EOLhyphen"/>bing on the High way, firſt for robbing <hi>Chriſtopher Hunt</hi> of 7 pound of Womens Hair, vallued at forty pounds upon <hi>Bagh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Heath,</hi> the fifteenth of <hi>January,</hi> a ſecond for Robing <hi>Roger Pipit</hi> of his Sword, ſeven pou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in monies, near <hi>Eg<g ref="char:EOLhyphen"/>ham,</hi> as likewiſe the Parſon of <hi>Egham;</hi> taking from him a Watch, and monies to a conſiderable vallue; the next for Robing Mr. <hi>Addleſon</hi> a Butcher of five or ſix pounds, they had been notorious villains, <hi>Herring</hi> eſpecially, and had ta<g ref="char:EOLhyphen"/>ken the name of <hi>Seamor</hi> as a Trophy ever ſince he Robbed Eſquire <hi>Seamor,</hi> the Speaker of the Parliament Houſe, <hi>Captain Richardſon</hi> did appear againſt them, and did aſſert that they had been in twenty Robberies, and a fellow gave Evi<g ref="char:EOLhyphen"/>dence againſt them, that had been their Companion in ſeveral, they were taken upon ſuſpicion of Fellony and carried to <hi>Salisbury</hi> Goal, where when theſe In<g ref="char:EOLhyphen"/>dictments came againſt them they were brought to this Aſſize, the evidence was all ſo plain and poſitive, that the jury found them Guilty of the ſeveral Fellonies and Robberies, nor could they well deny them themſelves, and ſo received Sen<g ref="char:EOLhyphen"/>tance of Death.</p>
+            <p>
+               <hi>William Watſon,</hi> was indicted and took his Trial, together with <hi>William Gettern</hi> for ſtealing a Gelding from Squire <hi>Curtis</hi> in the Pariſh of <hi>Moden,</hi> vallued at five pounds, it was proved againſt them, that they were taken with the Horſe in their poſſeſſion upon the Road; deſigned for <hi>London,</hi> but the latter upon examination did affirm that he overtook the former upon the Road, deſiring him to let him ride behinde him, who refuſing to grant his requeſt, told him if he would accom<g ref="char:EOLhyphen"/>pany him he would ride ſoftly by, ſo that they had not been Aſſociates long, ere they were both apprehended and committed to the Goal, and likewiſe <hi>Watſon</hi> confeſſing he was no ways concerned in the Robbery, the jury aquitted him, but <hi>Watſon</hi> being found Guilty of the Fellony, received Sentance of Death.</p>
+            <p>
+               <hi>John Philips</hi> of the Pariſh of St. <hi>Georges Southwark</hi> was Indict<g ref="char:EOLhyphen"/>ed, for that ſhe with an Awl about 4 Inches long, did Murther <hi>James Philips</hi> her Son, a Child about 9 weeks old, the Circum<g ref="char:EOLhyphen"/>ſtances were as followeth; She having as it is credibly reported, a very cruel man to her Husband, who not only abuſed her, but kept her from ſuch neceſſaryes as were requiſite Women, which made her grow weary and deſperate, not caring to prolong her Life, ſo that thinking the Murther of her Child would be the only means to put a period to her own: She with the aforeſaid Awl in her Husbands abſence run it into the Throat, and leaving the Awl ſticking there, went out of Doors, but one of the Neigh<g ref="char:EOLhyphen"/>bours hearing the Child cry after an unuſual manner, went to ſee what the matter was, and when ſhe came found it lying in the Cradle in the poſture before recited, whereat being affrighted ſhe went and called ſome other Neighbours in, and whilſt they are dreſſing the Child, the Priſoner came back again, having been as far as St. <hi>Pauls London,</hi> but as ſhe ſaid, her Conſcience miſgiving her returned, and being demanded why ſhe acted ſuch an unnatu<g ref="char:EOLhyphen"/>raral Cruelty, ſhe ſaid that now her Grief was at an end, and ſhe did it that ſhe might likewiſe dye: But upon Examination in Court ſhe made a faint excuſe, ſaying the Awl was in the Cra<g ref="char:EOLhyphen"/>dle and ſo run into the Child; but that being falſe by her former Confeſſion, ſhe was found Guilty of wilful Murther.</p>
+            <pb n="4" facs="tcp:43828:3"/>
+            <p>
+               <hi>James Chriſtian</hi> was Arraigned and Tryed for killing <hi>Robert Bury</hi> a Water-man in the Pariſh of <hi>Redriff,</hi> the manner thus: the ſaid <hi>James Chriſtian</hi> having a former grudg again the Deceaſed for taking a Fare out of his Boat, had often threatned, and once moſt grievouſly beaten him, but watching his Opportunity one Night, when the ſaid <hi>Bury</hi> reatched ſome Goods in his Boat, the Pri<g ref="char:EOLhyphen"/>ſoner came, and as it is ſuppoſed found him aſleep, whereupon with a Staff he ſtruck him over the head and waked him, upon which ſome words paſſed between them, ſo that the Priſoner ta<g ref="char:EOLhyphen"/>king up the Hook or Etcher of the Boat, gave him ſeveral Mor<g ref="char:EOLhyphen"/>tal Wounds on the head with the ſame, of which the ſaid <hi>Bury</hi> dyed in the ſpace of 7 or 8 Weeks, affirming to the laſt that the Priſoner had been the cauſe of his Death. Whereupon the Ju<g ref="char:EOLhyphen"/>ry after ſome Conſult brought in <hi>Christian</hi> aboveſaid, Guilty of wilful Murther.</p>
+            <p>
+               <hi>Francis Harwood,</hi> a notorious Offender was arraigned and try<g ref="char:EOLhyphen"/>ed for breaking open the Houſe of <hi>Th. Stanto</hi> in the Pariſh of St. <hi>Georges Southwark</hi> and Feloniouſly bearing thence one Searge Petticoat with Silver Lace, one Scarf, one Cloth Coat, and ſeve<g ref="char:EOLhyphen"/>ral other Goods to the value of 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> himſelf confeſſing, That he knew where the Goods were, and that for 20 ſhillings he would help him to them again, but denied that he either broke the Houſe or Stole them, but having been burnt in the hand before at <hi>Ails<g ref="char:EOLhyphen"/>bury,</hi> he was only found Guilty of the Felony.</p>
+            <p>
+               <hi>William Smith,</hi> and <hi>John Smith</hi> took their Tryals for Stealing 7 Cows, the Goods and Chattels of <hi>Tho. Bret</hi> of <hi>Kingſton</hi> upon <hi>Thames,</hi> they being taken driving the Cows towards <hi>London,</hi> but upon examination in Cou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, one of them did viz. <hi>William</hi> affirm<g ref="char:EOLhyphen"/>ed that he accidentally coming along the Road and overtaking the other driving of them bought them of him, who affirmed that he found them in the Foreſt, ſo that <hi>John Smith</hi> was found Guilty of the Felony and the other acquitted.</p>
+            <p>
+               <hi>Tho. Goff,</hi> a Rower in a Bumboat was tryed for Stealing ſeveral Cables and Haſſers from on Board a Veſſel lying in <hi>Redriff road</hi> upon the <hi>Thames</hi> making the Boy that watched aboard firſt drunk which being proved plainly againſt him, he was found Guilty of Felony.</p>
+            <p>
+               <hi>Edward Billing</hi> was Indicted and Arraigned for Fellony and Burglary, for that he about two of the Clock on the 20. of <hi>Jan.</hi> did Felloniouſly break and enter the Shop of <hi>Richard Bullien</hi> of <hi>Redriff,</hi> and taking thence wrought Iron to a conſiderable value, but being purſued he ran into a houſe of Office ſtanding over the <hi>Thames</hi> and endeavoured to thruſt it down into the ſame; the Fellony being plain, the Jury found that, but could not find the Burglary by aeaſon there was no proof of that.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43828:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
